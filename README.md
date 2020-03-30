@@ -10,8 +10,16 @@
 
 - 안에있는 내용 응용시 다른 값들 가져오기도 가능합니다. 
 
+코드 링크
+
+[https://github.com/moonk1212/nodejs_crawling/blob/master/js/maskcrawl1.js]
+
 ## 로또 최신번호 알려주기
 
 - npm i cheerio-httpcli
 
 - 여기서 나온 정보를 정제해서 로또번호추첨사이트를 만들수 있습니다.
+코드 링크
+
+[https://github.com/moonk1212/nodejs_crawling/blob/master/js/maskcrawl1.js]
+
