@@ -19,6 +19,7 @@
 - npm i cheerio-httpcli
 
 - 여기서 나온 정보를 정제해서 로또번호추첨사이트를 만들수 있습니다.
+
 코드 링크
 
 [https://github.com/moonk1212/nodejs_crawling/blob/master/js/latest_lotto.js]
