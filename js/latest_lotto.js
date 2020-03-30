@@ -7,7 +7,7 @@ client.fetch(url, param, function(err, $, res){
           console.log(err);
            return; 
         }
-     $(".num_box=").each(function(post) { 
+     $(".num_box").each(function(post) { 
         result=$(".num_box").text();
          console.log(result); 
 
